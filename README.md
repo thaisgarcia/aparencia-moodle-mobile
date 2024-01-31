@@ -1,4 +1,4 @@
-### Customização da Interface do Moodle Mobile
+### Customização da Interface do Moodle Mobile <img src="https://static-00.iconduck.com/assets.00/moodle-original-icon-2048x1389-u7hmiiak.png" width="30px"/>
 
 Onde deve ser inserido o link (URL) do arquivo CSS:
 
