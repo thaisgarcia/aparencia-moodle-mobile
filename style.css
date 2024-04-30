@@ -7,6 +7,10 @@ body {
     user-select: none;
 }
 
+.card-container .card {
+    display: none;
+}
+
 #categoryFilter option:checked ~ .card-container .card {
     display: block;
 }
