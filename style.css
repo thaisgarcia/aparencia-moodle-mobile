@@ -6,15 +6,3 @@ body {
     -ms-user-select: none;
     user-select: none;
 }
-
-.card-container .card {
-    display: none;
-}
-
-#categoryFilter option:checked ~ .card-container .card {
-    display: block;
-}
-
-#categoryFilter option:checked[value="all"] ~ .card-container .card {
-    display: block;
-}
